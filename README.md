@@ -7,8 +7,7 @@ This project performs Exploratory Data Analysis (EDA) and Hypothesis Testing on 
 - `Insurance_Claims_Analysis.ipynb` – Combined EDA & Hypothesis Testing notebook
 - `data/claims_data.csv` – Claims dataset
 - `data/cust_data.csv` – Customer information dataset
-- `requirements.txt` – Python dependencies
-
+ 
 ---
 
 ## 📌 Key Business Questions Addressed
