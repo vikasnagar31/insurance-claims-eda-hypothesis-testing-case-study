@@ -303,7 +303,7 @@ All tests were conducted at a **95% confidence level** (α = 0.05).
 
 ## 🙋 Author
 
-**Your Name**  
-[LinkedIn]([https://www.linkedin.com/in/vikas31/)]) · 
+**Vikas Nagar**  
+[LinkedIn](https://www.linkedin.com/in/vikas31/) · 
 
 ---
